@@ -1,1 +1,4 @@
 ca c'est juste pour le renouvellement de office tu connais
+juste je rajoute une petite ligne
+def fonction():
+  print("Hello")
